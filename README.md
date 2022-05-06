@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dhruv devil
+- 👋 Hi, I’m @Dhruv Pathak
 - 👀 I’m interested in Comding
 - 🌱 I’m currently learning Comding
 - 💞️ I’m looking to collaborate on ...
